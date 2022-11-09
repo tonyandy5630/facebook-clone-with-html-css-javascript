@@ -10,4 +10,5 @@
 
 ## Facebuk's images: 
 
-[![Images from facebuk](https://github.com/tonyandy5630/facebook-clone-with-html-css-javascript/blob/main/images/facebuk-1.png)]
+![Images from facebuk](https://github.com/tonyandy5630/facebook-clone-with-html-css-javascript/blob/main/images/facebuk-1.png)
+![Images from facebuk](https://github.com/tonyandy5630/facebook-clone-with-html-css-javascript/blob/main/images/facebuk-2.png)
